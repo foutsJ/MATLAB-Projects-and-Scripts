@@ -1,0 +1,9 @@
+These scripts were written primarily to double-check answers. As a result, there are several minor errors or formatting issues
+that were deemed unimportant for the sake of practicality. Upon feedback, GOALS will update, but there remain a few:
+
+GOALS:
+- Fix formatting to be consistent
+- Account for errors accounted for in the Issues tab
+- Ultimately: Combine all into a single mini-suite program that can perform any cplx number operation
+
+Revised code will eventually be placed into its own branch
