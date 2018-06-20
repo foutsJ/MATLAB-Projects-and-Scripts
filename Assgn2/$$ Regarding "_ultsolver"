@@ -1,0 +1,9 @@
+This file is the goal of creating a suite for all complex number operations in its infancy.
+
+It's very crude, but can get basic jobs done between two complex numbers (or it can find a single compliment).
+
+Plans for expansion:
+- Theoretically compute any number of complex numbers
+- incorporate more vectorization to store complex numbers entered
+- Fix inconsistent formatting
+- Write GUI?
